@@ -1,6 +1,10 @@
 # landing-page
 A simple landing page for an online pet shop.
 
+
+## note
+I am still learning so feel free to criticize my style and recommendations are also very welcome. 
+
 ## Images credits:
 img1.jpg: by Andrew S, https://unsplash.com/@sita2
 a dog and a cat laying in the grass
